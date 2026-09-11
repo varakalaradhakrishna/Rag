@@ -1,0 +1,37 @@
+# Big Billion Days (BBD) Pricing & Discount Strategy Guide
+Document ID: DOC-PRICING-2025-V2
+Effective Date: August 2025
+Audience: Category Managers, Pricing Analysts, Inventory Planning
+
+## 1. Executive Summary
+This document defines pricing architecture, dynamic discounting thresholds, gross margin protection rules, and promotional mechanics for the Big Billion Days annual sale event.
+
+## 2. Category Discount Thresholds & Margin Floors
+* **Mobiles & Tablets**:
+  - Maximum promotional discount: 18% to 22% on flagship models.
+  - Mandatory Gross Margin Floor: No mobile SKU may be sold below 4.5% gross margin without executive sign-off.
+  - Bank and exchange subsidies fund an additional 5% to 8% effective consumer discount.
+  - Volume incentive kicks in when unit sales cross 1,000 units per day per brand.
+
+* **Electronics & Audio**:
+  - Maximum promotional discount: 35% to 60% on personal audio (earbuds, Bluetooth speakers) and smart wearables.
+  - Laptops and computing: Cap discount at 22% with bundled extended warranty.
+  - Television category: 30% to 35% discount on 43-inch and 55-inch UHD 4K smart TVs to drive market share.
+
+* **Fashion & Apparel**:
+  - Maximum promotional discount: 45% to 55%.
+  - High inventory clearance items can reach 65% discount.
+  - Target gross margin: 25% minimum blended margin post-promotions.
+
+* **Home & Kitchen Appliances**:
+  - Air fryers, mixer grinders, and water purifiers have target discounts between 25% and 40%.
+  - Refrigerators and front-load washing machines capped at 25% to 28% discount with scheduled installation.
+
+## 3. Discount Elasticity & Cannibalization Guidelines
+- Deep discounts (>30%) on Mobiles cause gross revenue spikes but sharp net margin degradation.
+- When discounts exceed 40% on fashion, average order quantity increases by 32%, but return rates rise by 4.2 percentage points due to impulse buying and sizing errors.
+- Category managers must bundle slow-moving accessories with hero SKUs rather than lowering hero SKU base pricing.
+
+## 4. Payment & Partner Subsidies
+- Instant UPI discount: 5% up to ₹500 for basket values above ₹1,999.
+- Credit Card No-Cost EMI: 12-month and 24-month tenures with partner banks (HDFC, ICICI, SBI) covering interest subvention up to ₹3,500 on electronics above ₹30,000.

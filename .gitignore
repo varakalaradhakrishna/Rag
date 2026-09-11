@@ -1,0 +1,29 @@
+# Python Bytecode & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit Local Secrets & Config
+.streamlit/secrets.toml
+
+# Environment files with credentials
+.env
+*.env
+
+# SQLite Databases & Local Vector Store
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+rag/chroma_db/
+chroma_db/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

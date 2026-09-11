@@ -1,0 +1,34 @@
+# Big Billion Days (BBD) Return & Replacement Policy Standard Operating Procedure (SOP)
+Document ID: DOC-RETURNS-2025-SOP
+Version: 3.4
+Effective Date: July 2025
+
+## 1. Objective and Scope
+This document outlines the standard customer return policies, reverse logistics procedures, and return prevention strategies for all orders processed during promotional and regular shopping periods.
+
+## 2. Category-Specific Return Windows & Eligibility
+* **Mobiles & Tablets**:
+  - 7 Days Replacement Only for technical defects, dead-on-arrival (DOA) units, or transit damage.
+  - Return for refund is strictly prohibited once the IMEI is registered or the package seal is broken unless verified defective by an authorized brand technician.
+  - Average return rate baseline: 3% to 5%.
+
+* **Large Home Appliances & Televisions**:
+  - 10 Days Technician Inspection & Replacement.
+  - An authorized service engineer must verify screen damage or motor failure before a reverse pickup is approved.
+  - Average return rate baseline: 4% to 6%.
+
+* **Fashion & Apparel**:
+  - 14 Days Hassle-Free Returns & Exchanges for size, color, or fit issues.
+  - Tags must remain intact with original packaging.
+  - Historical return rate: 14% to 18%.
+  - High return rate factors: Footwear and formal wear experience higher return rates due to sizing disparities.
+
+* **Beauty & Personal Care / Grooming**:
+  - Non-returnable once opened or unsealed due to hygiene standards.
+  - Defective trimmers or electric grooming devices are subject to 7-day replacement.
+  - Average return rate baseline: 2% to 4%.
+
+## 3. Reverse Logistics & Margin Protection
+- Reverse logistics costs average ₹180 per unit for small parcel items and ₹850 for heavy appliances.
+- Repeated returns (>3 in 30 days) from the same Customer ID trigger a fraud-detection flag, temporarily disabling Cash-on-Delivery (COD) privileges.
+- Return reduction initiative: Implementing automated sizing recommendations and AR virtual try-on is expected to reduce apparel returns by 2.5%.
